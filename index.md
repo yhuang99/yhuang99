@@ -21,7 +21,7 @@
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content">
 							<h1>Story</h1>
-							<p class="major">click here for <a href="Lab_09.nb.html">LAB 9</a> .</p>
+							<p class="major">click for <a href="Lab_09.nb.html"> Lab9</a>.</p>
 							<ul class="actions stacked">
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
 							</ul>
